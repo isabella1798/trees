@@ -1,0 +1,1229 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/2980554268",
+      "properties": {
+        "timestamp": "2014-07-26T05:58:05Z",
+        "version": "1",
+        "changeset": "24361965",
+        "user": "glglgl",
+        "uid": "2052519",
+        "natural": "tree",
+        "id": "node/2980554268"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.110939, 49.2742673, 232.11312866210938]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2980554269",
+      "properties": {
+        "timestamp": "2014-07-26T05:58:05Z",
+        "version": "1",
+        "changeset": "24361965",
+        "user": "glglgl",
+        "uid": "2052519",
+        "natural": "tree",
+        "id": "node/2980554269"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1110571, 49.2743181, 231.85816955566406]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2980554270",
+      "properties": {
+        "timestamp": "2014-07-26T05:58:05Z",
+        "version": "1",
+        "changeset": "24361965",
+        "user": "glglgl",
+        "uid": "2052519",
+        "natural": "tree",
+        "id": "node/2980554270"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.111269, 49.2743968, 231.48756408691406]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2980554271",
+      "properties": {
+        "timestamp": "2014-07-26T05:58:05Z",
+        "version": "1",
+        "changeset": "24361965",
+        "user": "glglgl",
+        "uid": "2052519",
+        "natural": "tree",
+        "id": "node/2980554271"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1113682, 49.2744511, 231.19578552246094]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2980554272",
+      "properties": {
+        "timestamp": "2014-07-26T05:58:05Z",
+        "version": "1",
+        "changeset": "24361965",
+        "user": "glglgl",
+        "uid": "2052519",
+        "natural": "tree",
+        "id": "node/2980554272"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.111389, 49.2747495, 229.28636169433594]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2980554273",
+      "properties": {
+        "timestamp": "2014-07-26T05:58:05Z",
+        "version": "1",
+        "changeset": "24361965",
+        "user": "glglgl",
+        "uid": "2052519",
+        "natural": "tree",
+        "id": "node/2980554273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1114573, 49.274773, 229.19569396972656]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2980554274",
+      "properties": {
+        "timestamp": "2014-07-26T05:58:05Z",
+        "version": "1",
+        "changeset": "24361965",
+        "user": "glglgl",
+        "uid": "2052519",
+        "natural": "tree",
+        "id": "node/2980554274"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1120181, 49.274814, 229.3622283935547]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2980554275",
+      "properties": {
+        "timestamp": "2014-07-26T05:58:05Z",
+        "version": "1",
+        "changeset": "24361965",
+        "user": "glglgl",
+        "uid": "2052519",
+        "natural": "tree",
+        "id": "node/2980554275"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1115483, 49.2748163, 229.00074768066406]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2980554276",
+      "properties": {
+        "timestamp": "2014-07-26T05:58:05Z",
+        "version": "1",
+        "changeset": "24361965",
+        "user": "glglgl",
+        "uid": "2052519",
+        "natural": "tree",
+        "id": "node/2980554276"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1116697, 49.2748608, 228.8184356689453]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2980554277",
+      "properties": {
+        "timestamp": "2014-07-26T05:58:05Z",
+        "version": "1",
+        "changeset": "24361965",
+        "user": "glglgl",
+        "uid": "2052519",
+        "natural": "tree",
+        "id": "node/2980554277"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1117555, 49.2749074, 228.59495544433594]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2980554278",
+      "properties": {
+        "timestamp": "2014-07-26T05:58:05Z",
+        "version": "1",
+        "changeset": "24361965",
+        "user": "glglgl",
+        "uid": "2052519",
+        "natural": "tree",
+        "id": "node/2980554278"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1118825, 49.2749383, 228.49508666992188]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2980554279",
+      "properties": {
+        "timestamp": "2014-07-26T05:58:05Z",
+        "version": "1",
+        "changeset": "24361965",
+        "user": "glglgl",
+        "uid": "2052519",
+        "natural": "tree",
+        "id": "node/2980554279"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1119726, 49.2750045, 228.14874267578125]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11189263581",
+      "properties": {
+        "timestamp": "2023-09-13T22:28:22Z",
+        "version": "1",
+        "changeset": "141232040",
+        "user": "Thousand1961",
+        "uid": "18517936",
+        "natural": "tree",
+        "id": "node/11189263581"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1162252, 49.2721489, 236.75668334960938]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11189263582",
+      "properties": {
+        "timestamp": "2023-09-13T22:28:22Z",
+        "version": "1",
+        "changeset": "141232040",
+        "user": "Thousand1961",
+        "uid": "18517936",
+        "natural": "tree",
+        "id": "node/11189263582"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1162302, 49.2720715, 237.09242248535156]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11189263583",
+      "properties": {
+        "timestamp": "2023-09-13T22:28:22Z",
+        "version": "1",
+        "changeset": "141232040",
+        "user": "Thousand1961",
+        "uid": "18517936",
+        "natural": "tree",
+        "id": "node/11189263583"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1162322, 49.2720066, 237.37704467773438]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11189263584",
+      "properties": {
+        "timestamp": "2023-09-13T22:28:22Z",
+        "version": "1",
+        "changeset": "141232040",
+        "user": "Thousand1961",
+        "uid": "18517936",
+        "natural": "tree",
+        "id": "node/11189263584"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1162372, 49.2719279, 237.7178955078125]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11189263585",
+      "properties": {
+        "timestamp": "2023-09-13T22:28:22Z",
+        "version": "1",
+        "changeset": "141232040",
+        "user": "Thousand1961",
+        "uid": "18517936",
+        "natural": "tree",
+        "id": "node/11189263585"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1162422, 49.2718532, 238.04051208496094]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11189263586",
+      "properties": {
+        "timestamp": "2023-09-13T22:28:22Z",
+        "version": "1",
+        "changeset": "141232040",
+        "user": "Thousand1961",
+        "uid": "18517936",
+        "natural": "tree",
+        "id": "node/11189263586"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1161749, 49.2718833, 238.02684020996094]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11189263587",
+      "properties": {
+        "timestamp": "2023-09-13T22:28:22Z",
+        "version": "1",
+        "changeset": "141232040",
+        "user": "Thousand1961",
+        "uid": "18517936",
+        "natural": "tree",
+        "id": "node/11189263587"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1161779, 49.2719601, 237.67356872558594]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11189263588",
+      "properties": {
+        "timestamp": "2023-09-13T22:28:22Z",
+        "version": "1",
+        "changeset": "141232040",
+        "user": "Thousand1961",
+        "uid": "18517936",
+        "natural": "tree",
+        "id": "node/11189263588"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1161749, 49.2720309, 237.35809326171875]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11189263589",
+      "properties": {
+        "timestamp": "2023-09-13T22:28:22Z",
+        "version": "1",
+        "changeset": "141232040",
+        "user": "Thousand1961",
+        "uid": "18517936",
+        "natural": "tree",
+        "id": "node/11189263589"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1161628, 49.2721102, 237.01708984375]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11190937541",
+      "properties": {
+        "timestamp": "2023-09-14T15:04:41Z",
+        "version": "1",
+        "changeset": "141262467",
+        "user": "Thousand1961",
+        "uid": "18517936",
+        "natural": "tree",
+        "id": "node/11190937541"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.115476, 49.2725217, 235.68521118164062]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11190937542",
+      "properties": {
+        "timestamp": "2023-09-14T15:04:41Z",
+        "version": "1",
+        "changeset": "141262467",
+        "user": "Thousand1961",
+        "uid": "18517936",
+        "natural": "tree",
+        "id": "node/11190937542"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1155197, 49.2724565, 236.01084899902344]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11190937606",
+      "properties": {
+        "timestamp": "2023-09-14T15:04:41Z",
+        "version": "1",
+        "changeset": "141262467",
+        "user": "Thousand1961",
+        "uid": "18517936",
+        "natural": "tree",
+        "id": "node/11190937606"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1173477, 49.2767688, 231.56759643554688]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11190937607",
+      "properties": {
+        "timestamp": "2023-09-14T15:04:41Z",
+        "version": "1",
+        "changeset": "141262467",
+        "user": "Thousand1961",
+        "uid": "18517936",
+        "natural": "tree",
+        "id": "node/11190937607"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1171585, 49.2768378, 230.9145965576172]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11190937608",
+      "properties": {
+        "timestamp": "2023-09-14T15:04:41Z",
+        "version": "1",
+        "changeset": "141262467",
+        "user": "Thousand1961",
+        "uid": "18517936",
+        "natural": "tree",
+        "id": "node/11190937608"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1170922, 49.2767231, 231.40220642089844]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11190937609",
+      "properties": {
+        "timestamp": "2023-09-14T15:04:41Z",
+        "version": "1",
+        "changeset": "141262467",
+        "user": "Thousand1961",
+        "uid": "18517936",
+        "natural": "tree",
+        "id": "node/11190937609"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.117163, 49.2771572, 229.26577758789062]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11196672558",
+      "properties": {
+        "timestamp": "2023-09-16T22:15:59Z",
+        "version": "1",
+        "changeset": "141360435",
+        "user": "Thousand1961",
+        "uid": "18517936",
+        "natural": "tree",
+        "id": "node/11196672558"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1155693, 49.2726035, 235.17332458496094]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11196672559",
+      "properties": {
+        "timestamp": "2023-09-16T22:15:59Z",
+        "version": "1",
+        "changeset": "141360435",
+        "user": "Thousand1961",
+        "uid": "18517936",
+        "natural": "tree",
+        "id": "node/11196672559"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1156126, 49.2726856, 234.70887756347656]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11196672560",
+      "properties": {
+        "timestamp": "2023-09-16T22:15:59Z",
+        "version": "1",
+        "changeset": "141360435",
+        "user": "Thousand1961",
+        "uid": "18517936",
+        "natural": "tree",
+        "id": "node/11196672560"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1154577, 49.27274, 234.48207092285156]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11196672561",
+      "properties": {
+        "timestamp": "2023-09-16T22:15:59Z",
+        "version": "1",
+        "changeset": "141360435",
+        "user": "Thousand1961",
+        "uid": "18517936",
+        "natural": "tree",
+        "id": "node/11196672561"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1153927, 49.2728454, 233.91184997558594]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11196672562",
+      "properties": {
+        "timestamp": "2023-09-16T22:15:59Z",
+        "version": "1",
+        "changeset": "141360435",
+        "user": "Thousand1961",
+        "uid": "18517936",
+        "natural": "tree",
+        "id": "node/11196672562"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1154768, 49.2728797, 233.70030212402344]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11196672563",
+      "properties": {
+        "timestamp": "2023-09-16T22:15:59Z",
+        "version": "1",
+        "changeset": "141360435",
+        "user": "Thousand1961",
+        "uid": "18517936",
+        "natural": "tree",
+        "id": "node/11196672563"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1155884, 49.2729188, 233.77220153808594]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11196672564",
+      "properties": {
+        "timestamp": "2023-09-16T22:15:59Z",
+        "version": "1",
+        "changeset": "141360435",
+        "user": "Thousand1961",
+        "uid": "18517936",
+        "natural": "tree",
+        "id": "node/11196672564"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1159317, 49.2730563, 233.97889709472656]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11196672565",
+      "properties": {
+        "timestamp": "2024-02-19T22:02:04Z",
+        "version": "2",
+        "changeset": "147669610",
+        "user": "Thousand1961",
+        "uid": "18517936",
+        "natural": "tree",
+        "id": "node/11196672565"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1162651, 49.2729894, 233.6796417236328]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11196672566",
+      "properties": {
+        "timestamp": "2024-02-19T22:02:04Z",
+        "version": "2",
+        "changeset": "147669610",
+        "user": "Thousand1961",
+        "uid": "18517936",
+        "natural": "tree",
+        "id": "node/11196672566"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1165795, 49.2730995, 233.73281860351562]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11196672567",
+      "properties": {
+        "timestamp": "2023-09-16T22:15:59Z",
+        "version": "1",
+        "changeset": "141360435",
+        "user": "Thousand1961",
+        "uid": "18517936",
+        "natural": "tree",
+        "id": "node/11196672567"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1155025, 49.273029, 234.11936950683594]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11196672568",
+      "properties": {
+        "timestamp": "2023-09-16T22:15:59Z",
+        "version": "1",
+        "changeset": "141360435",
+        "user": "Thousand1961",
+        "uid": "18517936",
+        "natural": "tree",
+        "id": "node/11196672568"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1157068, 49.2731066, 234.22486877441406]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11196672569",
+      "properties": {
+        "timestamp": "2023-09-16T22:15:59Z",
+        "version": "1",
+        "changeset": "141360435",
+        "user": "Thousand1961",
+        "uid": "18517936",
+        "natural": "tree",
+        "id": "node/11196672569"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1158557, 49.2731457, 234.2370147705078]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11196672570",
+      "properties": {
+        "timestamp": "2023-09-16T22:15:59Z",
+        "version": "1",
+        "changeset": "141360435",
+        "user": "Thousand1961",
+        "uid": "18517936",
+        "natural": "tree",
+        "id": "node/11196672570"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1160023, 49.273181, 234.2294921875]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11196672571",
+      "properties": {
+        "timestamp": "2023-09-16T22:15:59Z",
+        "version": "1",
+        "changeset": "141360435",
+        "user": "Thousand1961",
+        "uid": "18517936",
+        "natural": "tree",
+        "id": "node/11196672571"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1161849, 49.2732453, 234.24696350097656]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11196672572",
+      "properties": {
+        "timestamp": "2023-09-16T22:15:59Z",
+        "version": "1",
+        "changeset": "141360435",
+        "user": "Thousand1961",
+        "uid": "18517936",
+        "natural": "tree",
+        "id": "node/11196672572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1171483, 49.2736254, 233.95399475097656]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11196672573",
+      "properties": {
+        "timestamp": "2023-09-16T22:15:59Z",
+        "version": "1",
+        "changeset": "141360435",
+        "user": "Thousand1961",
+        "uid": "18517936",
+        "natural": "tree",
+        "id": "node/11196672573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1170078, 49.2735533, 234.02818298339844]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11196672574",
+      "properties": {
+        "timestamp": "2023-09-16T22:15:59Z",
+        "version": "1",
+        "changeset": "141360435",
+        "user": "Thousand1961",
+        "uid": "18517936",
+        "natural": "tree",
+        "id": "node/11196672574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.116818, 49.2734616, 234.10018920898438]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11196672575",
+      "properties": {
+        "timestamp": "2023-09-16T22:15:59Z",
+        "version": "1",
+        "changeset": "141360435",
+        "user": "Thousand1961",
+        "uid": "18517936",
+        "natural": "tree",
+        "id": "node/11196672575"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.116669, 49.273402, 234.1483917236328]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11196672576",
+      "properties": {
+        "timestamp": "2023-09-16T22:15:59Z",
+        "version": "1",
+        "changeset": "141360435",
+        "user": "Thousand1961",
+        "uid": "18517936",
+        "natural": "tree",
+        "id": "node/11196672576"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1170834, 49.273471, 233.86546325683594]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11196672577",
+      "properties": {
+        "timestamp": "2023-09-16T22:15:59Z",
+        "version": "1",
+        "changeset": "141360435",
+        "user": "Thousand1961",
+        "uid": "18517936",
+        "natural": "tree",
+        "id": "node/11196672577"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1172168, 49.2735463, 233.8090362548828]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11196672578",
+      "properties": {
+        "timestamp": "2023-09-16T22:15:59Z",
+        "version": "1",
+        "changeset": "141360435",
+        "user": "Thousand1961",
+        "uid": "18517936",
+        "natural": "tree",
+        "id": "node/11196672578"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1172889, 49.2735706, 233.75604248046875]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11196672579",
+      "properties": {
+        "timestamp": "2023-09-16T22:15:59Z",
+        "version": "1",
+        "changeset": "141360435",
+        "user": "Thousand1961",
+        "uid": "18517936",
+        "natural": "tree",
+        "id": "node/11196672579"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1163929, 49.2731716, 233.96510314941406]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11196672636",
+      "properties": {
+        "timestamp": "2023-09-16T22:15:59Z",
+        "version": "1",
+        "changeset": "141360435",
+        "user": "Thousand1961",
+        "uid": "18517936",
+        "natural": "tree",
+        "id": "node/11196672636"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.115422, 49.2726058, 235.25115966796875]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11196674237",
+      "properties": {
+        "timestamp": "2023-09-16T22:15:59Z",
+        "version": "1",
+        "changeset": "141360435",
+        "user": "Thousand1961",
+        "uid": "18517936",
+        "natural": "tree",
+        "id": "node/11196674237"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1153896, 49.2726412, 235.06976318359375]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11196674238",
+      "properties": {
+        "timestamp": "2023-09-16T22:15:59Z",
+        "version": "1",
+        "changeset": "141360435",
+        "user": "Thousand1961",
+        "uid": "18517936",
+        "natural": "tree",
+        "id": "node/11196674238"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1153504, 49.2726977, 234.7672119140625]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11200201518",
+      "properties": {
+        "timestamp": "2023-09-18T15:02:13Z",
+        "version": "1",
+        "changeset": "141429281",
+        "user": "Thousand1961",
+        "uid": "18517936",
+        "natural": "tree",
+        "id": "node/11200201518"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1159321, 49.2723502, 236.1732177734375]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11200201533",
+      "properties": {
+        "timestamp": "2023-09-18T15:02:13Z",
+        "version": "1",
+        "changeset": "141429281",
+        "user": "Thousand1961",
+        "uid": "18517936",
+        "natural": "tree",
+        "id": "node/11200201533"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1156227, 49.2722317, 237.1258087158203]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11200201534",
+      "properties": {
+        "timestamp": "2023-09-18T15:02:13Z",
+        "version": "1",
+        "changeset": "141429281",
+        "user": "Thousand1961",
+        "uid": "18517936",
+        "natural": "tree",
+        "id": "node/11200201534"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1156485, 49.2721436, 237.5640869140625]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11200201535",
+      "properties": {
+        "timestamp": "2023-09-18T15:02:13Z",
+        "version": "1",
+        "changeset": "141429281",
+        "user": "Thousand1961",
+        "uid": "18517936",
+        "natural": "tree",
+        "id": "node/11200201535"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1156564, 49.2720492, 238.05625915527344]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11200201536",
+      "properties": {
+        "timestamp": "2023-09-18T15:02:13Z",
+        "version": "1",
+        "changeset": "141429281",
+        "user": "Thousand1961",
+        "uid": "18517936",
+        "natural": "tree",
+        "id": "node/11200201536"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1156578, 49.2719595, 238.53273010253906]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11200215637",
+      "properties": {
+        "timestamp": "2023-09-18T15:02:13Z",
+        "version": "1",
+        "changeset": "141429281",
+        "user": "Thousand1961",
+        "uid": "18517936",
+        "natural": "tree",
+        "id": "node/11200215637"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1156521, 49.2718488, 239.13494873046875]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11200215639",
+      "properties": {
+        "timestamp": "2023-09-18T15:02:13Z",
+        "version": "1",
+        "changeset": "141429281",
+        "user": "Thousand1961",
+        "uid": "18517936",
+        "natural": "tree",
+        "id": "node/11200215639"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1168491, 49.271913, 236.71226501464844]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11200215640",
+      "properties": {
+        "timestamp": "2023-09-18T15:02:13Z",
+        "version": "1",
+        "changeset": "141429281",
+        "user": "Thousand1961",
+        "uid": "18517936",
+        "natural": "tree",
+        "id": "node/11200215640"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.116842, 49.2719888, 236.4605255126953]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11200215641",
+      "properties": {
+        "timestamp": "2023-09-18T15:02:13Z",
+        "version": "1",
+        "changeset": "141429281",
+        "user": "Thousand1961",
+        "uid": "18517936",
+        "natural": "tree",
+        "id": "node/11200215641"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1168398, 49.2720637, 236.20339965820312]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11200215642",
+      "properties": {
+        "timestamp": "2023-09-18T15:02:13Z",
+        "version": "1",
+        "changeset": "141429281",
+        "user": "Thousand1961",
+        "uid": "18517936",
+        "natural": "tree",
+        "id": "node/11200215642"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1168299, 49.2721395, 235.95419311523438]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11200215643",
+      "properties": {
+        "timestamp": "2023-09-18T15:02:13Z",
+        "version": "1",
+        "changeset": "141429281",
+        "user": "Thousand1961",
+        "uid": "18517936",
+        "natural": "tree",
+        "id": "node/11200215643"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1168291, 49.2722148, 235.6932830810547]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11200215644",
+      "properties": {
+        "timestamp": "2023-09-18T15:02:13Z",
+        "version": "1",
+        "changeset": "141429281",
+        "user": "Thousand1961",
+        "uid": "18517936",
+        "natural": "tree",
+        "id": "node/11200215644"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1168263, 49.2722902, 235.4348602294922]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11359866083",
+      "properties": {
+        "timestamp": "2023-11-19T19:30:47Z",
+        "version": "2",
+        "changeset": "144220690",
+        "user": "Thousand1961",
+        "uid": "18517936",
+        "natural": "tree",
+        "id": "node/11359866083"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1162526, 49.2740584, 235.7965850830078]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11541245960",
+      "properties": {
+        "timestamp": "2024-01-22T21:47:36Z",
+        "version": "1",
+        "changeset": "146570711",
+        "user": "Thousand1961",
+        "uid": "18517936",
+        "natural": "tree",
+        "id": "node/11541245960"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1121763, 49.2782453, 220.658203125]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11551719836",
+      "properties": {
+        "timestamp": "2024-01-25T16:54:02Z",
+        "version": "1",
+        "changeset": "146681240",
+        "user": "Thousand1961",
+        "uid": "18517936",
+        "natural": "tree",
+        "id": "node/11551719836"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1124331, 49.2784136, 220.80230712890625]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11608093182",
+      "properties": {
+        "timestamp": "2024-02-10T16:12:08Z",
+        "version": "1",
+        "changeset": "147298921",
+        "user": "Thousand1961",
+        "uid": "18517936",
+        "natural": "tree",
+        "id": "node/11608093182"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1124772, 49.278141, 220.49502563476562]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11608093183",
+      "properties": {
+        "timestamp": "2024-02-10T16:12:08Z",
+        "version": "1",
+        "changeset": "147298921",
+        "user": "Thousand1961",
+        "uid": "18517936",
+        "natural": "tree",
+        "id": "node/11608093183"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1126518, 49.2782447, 220.64303588867188]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11643048621",
+      "properties": {
+        "timestamp": "2024-02-19T22:02:04Z",
+        "version": "1",
+        "changeset": "147669610",
+        "user": "Thousand1961",
+        "uid": "18517936",
+        "natural": "tree",
+        "id": "node/11643048621"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1161707, 49.2729894, 233.71885681152344]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11643048622",
+      "properties": {
+        "timestamp": "2024-02-19T22:02:04Z",
+        "version": "1",
+        "changeset": "147669610",
+        "user": "Thousand1961",
+        "uid": "18517936",
+        "natural": "tree",
+        "id": "node/11643048622"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1162246, 49.2729352, 233.5850372314453]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11643048623",
+      "properties": {
+        "timestamp": "2024-02-19T22:02:04Z",
+        "version": "1",
+        "changeset": "147669610",
+        "user": "Thousand1961",
+        "uid": "18517936",
+        "natural": "tree",
+        "id": "node/11643048623"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1166004, 49.2730319, 233.61215209960938]
+      }
+    }
+  ]
+}
